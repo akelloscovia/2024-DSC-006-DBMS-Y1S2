@@ -15,3 +15,26 @@ VALUES('IMIS','001','Damaris'),
  code VARCHAR(255),
  Title VARCHAR(255)
  );
+
+-- i)
+-- SELECT*
+-- FROM student;
+-- SELECT* 
+-- FROM Course
+
+--  ii)
+-- INSERT INTO student(code,Stud_id,Name)
+-- VALUES('DIT','005','Achieng');
+
+-- iii)
+-- UPDATE student
+-- SET Name='Damaris Wanjiku'
+-- WHERE Stud_id ='001'
+ 
+-- iv)
+-- DELETE* FROM student 
+-- WHERE Stud_id='002';
+
+-- c)
+--  SELECT*FROM Student
+--  ORDER BY Name DESC;
