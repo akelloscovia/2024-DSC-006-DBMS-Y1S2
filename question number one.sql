@@ -48,7 +48,7 @@
 
 
 -- v)
--- UPDATE finance 
+-- UPDATE student 
 -- SET StudentName ='Nelson'
 -- WHERE StudentID = 26;
 
